@@ -1,0 +1,357 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="ja">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" href="./css/wangfeng.css" media="all">
+<meta http-equiv="Page-Enter" content="blendTrans(Duration=0.5)">
+<title>王枫的个人主页</title>
+<link rel="shortcut icon" href="https://mapleeureka.github.io/images/eclipse.ico">
+<script type="text/javascript" src="myjs/mouse_pointer.js" id="mymouse"></script> 
+</head>
+
+<body lang="ch" bgcolor="white">
+<h1>王 枫</h1>
+<p>
+[<a href="https://mapleeureka.github.io/index.html">English</a> | Chinese]
+</p>
+
+<div class="main">
+<h2>简介</h2>
+<ul>
+<dl>
+<dt>姓名</dt>
+	<dd>王枫</dd>
+<dt>职业</dt>
+	<dd>工程师</dd>
+<dt>业余爱好</dt>
+	<dd>陈氏太极拳、油画</dd>
+<dt>个人照片</dt>
+	<dd><a href="./images/taiji.jpg">健身</a>&nbsp;  <a href="./images/wangfeng.jpg">面部识别</a>
+	</dd>
+<dt>微博网页版</dt>
+	<dd><a href="http://weibo.com/eurekaeureka">http://weibo.com/eurekaeureka</a>
+	</dd>
+<dt>微博手机版</dt>
+	<dd><a href="http://weibo.cn/eurekaeureka">http://weibo.cn/eurekaeureka</a>
+	</dd>
+</dl>
+
+</ul>
+
+<h2>研究主题</h2>
+   <ul>
+   
+   		<li>数学与统计学
+			<ul>
+			<li>抽象代数</li>
+			<li>微分几何</li>
+			<li>代数数论</li>
+			<li>多元统计</li>
+			<li>机器学习</li>
+			</ul>
+		</li>
+		
+		 <li>理论物理学
+			<ul>
+			<li>电动力学</li>
+			<li>量子力学</li>
+			<li>量子场论</li>
+			<li>热力学与统计物理</li>
+			</ul>
+		 </li>
+	 
+	
+		<li>计算机科学与技术
+			<ul>
+			<li>大数据技术</li>
+			<li>多媒体数据挖掘与人工智能</li>
+			</ul>
+		</li>
+		
+		<li>生物信息学
+			<ul>
+			<li>基因组学</li>
+			<li>蛋白质组学</li>
+			</ul>
+		</li>
+   
+   
+   </ul>
+   
+   
+   
+<h2>程序</h2>
+
+<ul>
+	 <li>自然语言处理
+	 </li>
+	 
+     <li>计算机图形学
+	 		<ul>
+			<li><a href="./Projects/WebGL/Chap2/gasket1.html">gasket1</a></li>
+			<li><a href="./Projects/WebGL/Chap2/gasket2.html">gasket2</a></li>
+			<li><a href="./Projects/WebGL/Chap2/gasket3.html">gasket3</a></li>
+			<li><a href="./Projects/WebGL/Chap2/gasket4.html">gasket4</a></li><br>
+			
+			<li><a href="./Projects/WebGL/Chap4/cube.html">cube</a></li>
+			<li><a href="./Projects/WebGL/Chap4/cubeq.html">cubeq</a></li>
+			<li><a href="./Projects/WebGL/Chap4/cubev.html">cubev</a></li>
+			<li><a href="./Projects/WebGL/Chap4/trackball.html">trackball</a></li>
+			<li><a href="./Projects/WebGL/Chap4/trackballQuaterion.html">trackballQuaterion</a></li><br>
+			
+			<li><a href="./Projects/WebGL/Chap7/particleDiffusion.html">particleDiffusion</a></li>
+			<li><a href="./Projects/WebGL/Chap7/pickCube.html">pickCube</a></li><br>
+			
+			<li><a href="./Projects/WebGL/Chap10/mandelbrot1.html">mandelbrot1</a></li>
+			<li><a href="./Projects/WebGL/Chap10/mandelbrot2.html">mandelbrot2</a></li>
+			<li><a href="./Projects/WebGL/Chap10/particleDiffusion1.html">particleDiffusion1</a></li>
+			<li><a href="./Projects/WebGL/Chap10/particleDiffusion2.html">particleDiffusion2</a></li>
+			<li><a href="./Projects/WebGL/Chap10/particleDiffusion5.html">particleDiffusion5</a></li>
+			<li><a href="./Projects/WebGL/Chap10/particleDiffusion9.html">particleDiffusion9</a></li>
+			<li><a href="./Projects/WebGL/Chap10/particleSystem.html">particleSystem</a></li>
+			</ul>
+     </li>
+	 
+	 <li>数字图像处理
+	 </li>
+	 
+	 <li>计算机视觉
+	 </li>
+	 
+
+	 
+	 <li>数字语音处理
+	 </li>
+	 
+	 <li>Java Web
+	 </li>
+	 
+	 <li>并行计算
+	 </li>	 
+	 
+	 <li>异构计算
+	 </li>
+	 
+	 <li>大数据与云计算
+	 </li>	 
+</ul>   
+
+
+
+
+<!-- 
+    <ul>
+     <li><a href="http://www.chasen.org/~taku/software/mecab">MeCab</a> (次世代 形態素解析 エンジン)
+     </li><li><a href="http://www.chasen.org/~taku/software/cabocha">CaboCha</a> (係り受け解析器)
+     </li><li><a href="http://www.chasen.org/~taku/software/CRF++">CRF++</a> (汎用 Tagger,Chunker based on CRF)
+     </li><li><a href="http://www.chasen.org/~taku/software/yamcha">YamCha</a> (汎用 Tagger,Chunker based on SVM)
+     </li><li><a href="http://www.chasen.org/~taku/software/TinySVM">TinySVM</a> (SVM 学習パッケージ)
+     </li><li><a href="http://www.chasen.org/~taku/software/TinySegmenter">TinySegmenter</a>
+     </li><li><a href="http://www.chasen.org/~taku/software/darts">Darts</a> (Double Array 構築 + 検索プログラム)
+     </li><li><a href="http://www.chasen.org/~taku/software/freqt/">FREQT</a> (頻出部分木マイニングプログラム)
+     </li><li><a href="http://www.chasen.org/~taku/software/bact/">BACT</a> (木の分類/学習アルゴリズム)
+		<a href="http://www.chasen.org/~taku/publications/emnlp2004-1.pdf">EMNLP2004-1</a>	
+		<a href="http://www.chasen.org/~taku/publications/sigai135.pdf">SIGAI135</a>	
+		<a href="http://www.chasen.org/~taku/publications/nl158.pdf">NL158</a>に使われたものと同一のプログラムです.
+
+     </li><li><a href="http://www.chasen.org/~taku/software/prefixspan/">PrefixSpan</a> (シーケンシャルパターン マイニングプログラム)
+	(PrefixSpan の詳細は <a href="http://www.cs.sfu.ca/~peijian/personal/publications/span.pdf">こちら</a>)
+     </li><li><a href="http://www.chasen.org/~taku/software/ajax/kwic/">Ajax を用いた KWIC</a>,  <a href="http://www.chasen.org/~taku/software/ajax/ime/">IME</a>, 
+<a href="http://www.chasen.org/~taku/software/ajax/fullime/">Full IME</a>, 
+ <a href="http://www.chasen.org/~taku/software/ajax/imekwic/">migemo</a>
+     </li><li><a href="http://www.chasen.org/~taku/software/mecab-skkserv">mecab-skkserv</a>(MeCab を用いた SKK サーバ (仮名漢字変換エンジン)
+    </li><li><a href="http://www.chasen.org/~taku/software/HexeVote">HexeVote</a> Yet Another ヘーボタン
+    </li></ul>   
+	
+-->	
+	
+<h2>出版物</h2>
+<ul>
+ <!-- 
+ <h3>学术论文</h3>
+
+   <ul>
+	<li>王枫, 王五 (2002)<br>
+	チャンキングの段階適用による係り受け解析, 情報処理学会論文誌, Vol 43, No. 6 pp. 1834-1842
+	[<a href="http://www.chasen.org/~taku/publications/ipsj2001j.pdf">PDF (draft)</a>]
+    </li><li>工藤 拓, 松本 裕治 (2002)<br>
+        Support Vector Machine を用いた Chunk 同定, 自然言語処理,
+        Vol.9, No, 5 pp 3-22
+	[<a href="http://www.chasen.org/~taku/publications/nlp2001j.pdf">PDF (draft)</a>]
+    </li><li>山田 寛康,工藤 拓,松本裕治 (2002)<br>
+	Support Vector Machineを用いた日本語固有表現抽出 情報処理学会論文誌 ,
+	Vol 43, No. 1, pp.43-53
+     </li><li>中川 哲治, 工藤 拓, 松本 裕治 (2003)<br>
+         Support Vector Machineを用いた形態素解析と修正学習法の提案 情報処理学会論文誌, Vol.44, No.5, pp.1354-1367, May 2003
+    </li>
+	</ul>
+	
+	
+
+
+ <h3>国际会议</h3>
+ <ul>
+    <li>Taku Kudo, Toshiyuki Hanaoka, Jun Mukai, Yusuke Tabata, and Hiroyuki Komatsu (2011)<br>
+        Efficient dictionary and language model compression for input method editors, WTIM 2011
+        [<a href="http://www.aclweb.org/anthology/W/W11/W11-3503.pdf">PDF</a>]
+    </li><li>Taku Kudo, Jun Suzuki, Hideki Isozaki (2005)<br>
+        Boosting-based parse reranking with subtree features, ACL 2005
+	[<a href="http://www.chasen.org/~taku/publications/acl2005.pdf">PDF</a>]
+    </li><li>Taku Kudo, Eisaku Maeda, Yuji Matsumoto (2004)<br>
+	An Application of Boosting to Graph Classification, NIPS 2004
+	[<a href="http://www.chasen.org/~taku/publications/nips2004.pdf">PDF</a>]
+    </li><li>Taku Kudo, Yuji Matsumoto (2004)<br>
+	A Boosting Algorithm for Classification of Semi-Structured Text, EMNLP 2004 
+	[<a href="http://www.chasen.org/~taku/publications/emnlp2004-1.pdf">PDF</a>]
+	[<a href="http://www.chasen.org/~taku/publications/emnlp2004-1-slide.ppt">PPT (slide)</a>]
+    </li><li>Taku Kudo, Kaoru Yamamoto, Yuji Matsumoto (2004)<br>
+	Appliying Conditional Random Fields to Japanese Morphological Analysis, EMNLP 2004
+	[<a href="http://www.chasen.org/~taku/publications/emnlp2004-2.pdf">PDF</a>]
+	[<a href="http://www.chasen.org/~taku/publications/emnlp2004-2-slide.ppt">PPT (slide)</a>]
+    </li><li>Taku Kudo, Yuji Matsumoto (2003)<br>
+	 Fast Methods for Kernel-based Text Analysis, ACL 2003
+	[<a href="http://www.chasen.org/~taku/publications/acl2003.pdf">PDF</a>]
+	[<a href="http://www.chasen.org/~taku/publications/acl2003-slide.ppt">PPT (slide)</a>]
+    </li><li>Taku Kudo, Yuji Matsumoto (2002)<br>
+	 Japanese Dependency Analyisis using Cascaded Chunking, CONLL 2002 in TAIPEI
+	[<a href="http://www.chasen.org/~taku/publications/conll2002.pdf">PDF</a>]
+	[<a href="http://www.chasen.org/~taku/publications/conll2002-slide.ppt">PPT (slide)</a>]
+    </li><li>Taku Kudo, Yuji Matsumoto (2001)<br>
+	 Chunking with Support Vector Machines, NAACL 2001
+	[<a href="http://www.chasen.org/~taku/publications/naacl2001.pdf">PDF</a>]
+	[<a href="http://www.chasen.org/~taku/publications/naacl2001-slide.pdf">PDF (slide)</a>]
+	[<a href="http://lcg-www.uia.ac.be/~erikt/research/np-chunking.html">関連Link1</a>
+	<a href="http://lcg-www.uia.ac.be/conll2000/chunking/">2</a>]
+    </li><li>Taku Kudo, Yuji Matsumoto (2000)<br>
+	 Japanese Dependency Analysis  Based on Support Vector Machines, EMNLP/VLC 2000
+	[<a href="http://www.chasen.org/~taku/publications/vlc2000.pdf">PDF</a>]
+	[<a href="http://www.chasen.org/~taku/publications/vlc2000-slide.pdf">PDF (slide)</a>]
+    </li><li>Taku Kudo, Yuji Matsumoto (2000)<br>
+	 Use of Support Vector Learning for Chunk Identification, CoNLL-2000
+	[<a href="http://www.chasen.org/~taku/publications/conll2000.ps">Postscript</a>]
+	[<a href="http://lcg-www.uia.ac.be/conll2000/chunking/">関連 Link</a>]
+     </li><li>Tetsuji Nakagawa, Taku Kudo, Yuji Matsumoto (2002)<br>
+	Revision Learning and its Application to Part-of-Speech Tagging, ACL2002
+	[<a href="http://acl.ldc.upenn.edu/P/P02/P02-1063.pdf">PDF</a>]
+     </li><li>Tetsuji Nakagawa, Taku Kudo and Yuji Matsumoto (2001)<br>
+        Unknown Word Guessing and Part-of-Speech Tagging Using Support Vector Machines, NLPRS2001
+	[<a href="http://www.afnlp.org/nlprs2001/pdf/0053-01.pdf">PDF</a>]
+     </li><li>Kaoru Yamamoto (Riken GSC), Taku Kudo, Yuta Tsuboi (IBM Japan) and Yuji Matsumoto (2003)<br> 
+	Learning sequence-to-sequence correspondences from parallel corpora via sequential pattern mining,<br>
+	Building and Using Parallel Texts: Data Driven Machine Translation and Beyond HLT-NAACL 2003 Workshop
+	[<a href="http://www.cs.unt.edu/~rada/wpt/papers/pdf/Yamamoto.pdf">PDF</a>]
+     </li><li>Kaoru Yamamoto (Riken GSC), Taku Kudo, Akihiko Konagaya (Riken GSC) and Yuji Matsumoto (2003)<br>
+	 Protein name tagging for biomedical annotation in text, 
+	ACL 2003 Workshop: Natural Language Processing in Biomedicine
+	[<a href="http://acl.ldc.upenn.edu/acl2003/nlbio/pdf/Yamamoto.pdf">PDF</a>]
+	 </li>
+	 </ul>
+ 
+ 
+   <h3>商用誌記事/事典項目等 </h3>
+	<ul>
+	<li>日本語係り受け解析システム「南瓜」 
+	マルチメディア言語学情報[18], 月刊 言語, Vol.32, No.6, pp.74-75, June 2003. 
+	</li></ul>
+   <h3>松本研究会等 Handouts</h3>
+	<ul>	
+	<li>2000/11/22 NL 研究会 松本研研究室紹介: Support Vector Machine による自然言語処理
+	[<a href="http://www.chasen.org/~taku/publications/svmtalk-2001.pdf">PDF</a>]
+	</li><li>1999/7/26 Allen本輪講, Chapter7 Ambiguity Resolution: StatisticalMethods 
+	[<a href="http://www.chasen.org/~taku/publications/allen7/allen7.html">html</a>]
+	</li><li>1999/7/29 Allen本輪講, Chapter7 Ambiguity Resolution: Statistical Methods (part2)
+	[<a href="http://www.chasen.org/~taku/publications/allen7-2/allen7-2.html">html</a>]
+	</li><li>1999/8/2  夏の勉強会, Foundations of Statistical Natuaral Language Processing - Chapter 15, IR
+	[<a href="http://www.chasen.org/~taku/publications/fsnlp15/fsnlp15.html">html</a>]
+	</li><li>2000/1/17  ゼミナール1 論文紹介, Probabilistic Latent Semantic Indexing (SIGIR '99)
+	[<a href="http://www.chasen.org/~taku/publications/plsi/plsi.html">html</a>]
+	</li></ul>
+	
+-->
+
+</ul>
+
+<!-- 
+<h2>获奖</h2>
+
+
+<ul>
+<li>平成16年 3月, 奈良先端科学技術大学院大学情報科学研究科 NAIST最優秀学生賞 受賞
+</li><li>平成14年 <a href="http://www2.crl.go.jp/pub/nlp/guide/news/v9n2/index.html#nlp8c">自然言語処理学会 年次大会優秀発表賞</a> 受賞<br>
+言語情報を利用したテキストマイニング
+	 [<a href="http://www.chasen.org/~taku/publications/nlp2002.pdf">PDF</a>]
+         [<a href="http://www.chasen.org/~taku/publications/nlp2002-slide.ppt">PPT (slide)</a>]
+</li><li>平成13年 <a href="http://www.ipsj.or.jp/gaiyo/awardsig2.htm">情報処理学会 山下記念研究賞</a> 受賞<br>
+	チャンキングの段階適用による係り受け解析, 情報処理学会自然言語処理研究会 SIGNL-142
+	[<a href="http://www.chasen.org/~taku/publications/nl142.pdf">PDF</a>]
+        [<a href="http://www.chasen.org/~taku/publications/nlp2001-slide.pdf">PDF (slide)</a>]
+        [<a href="http://www.chasen.org/~taku/publications/sentan.html">学内誌への原稿</a>]
+</li></ul>
+-->
+
+<h2>计算机技能</h2>
+  <ul>
+	   <li>熟练掌握Windows与Linux服务器运维</li>
+	   <li>编程语言: C, C++, Java, R, Matlab, Julia, Shell/bash, JavaScript(学习中)</li>
+  </ul>
+
+  
+<h2>其他</h2>
+<ul>
+		<li><a href="http://weibo.com/eurekaeureka">Wiki</a></li>
+		<li><a href="http://weibo.com/eurekaeureka">学习日记</a></li>
+</ul>
+
+<hr>
+<address>
+<a href="mailto:scinece_maths@qq.com">scinece_maths@qq.com</a><br>
+<a href="mailto:scinece_maths@qq.com">scinece_maths@qq.com</a>(for Personal mailbox)
+</address>
+</div>
+
+
+
+
+
+
+
+
+
+
+<div class="sidebar">
+<script type="text/javascript" src="./myjs/sidebar-ja.js"></script>
+
+<h2>最新消息</h2>
+<h3><a href="http://chasen.org/~taku/blog">blog</a></h3>
+
+<ul><li><i>24 Mar 2007</i>: <a href="http://weibo.com/ttarticle/p/show?id=2309404011018887005522&mod=zwenzhang">给Qt程序的EXE文件添加图标</a></li>
+<li><i>24 Mar 2007</i>: <a href="http://chasen.org/~taku/blog/archives/2007/02/crf_046.html">CRF++ 0.46</a></li><li><i>24 Mar 2007</i>: <a href="http://chasen.org/~taku/blog/archives/2007/02/post_823.html">父親になった</a></li>
+<li><i>24 Mar 2007</i>: <a href="http://chasen.org/~taku/blog/archives/2007/02/post_822.html">ソートの平均要素移動距離</a></li>
+</ul><h3>software</h3><ul><li><i>14 Mar 2007</i>: <a href="http://chasen.org/~taku/software/bact/index.html">BACT</a></li><li><i>07 Mar 2007</i>: <a href="http://chasen.org/~taku/software/CRF++/index.html">CRF++</a></li><li><i>27 Jan 2007</i>: <a href="http://chasen.org/~taku/software/darts/index.html">Darts</a></li>
+<li><i>05 Nov 2006</i>: <a href="http://chasen.org/~taku/software/ajax/fullime/index.html">Full IME</a></li></ul>
+<h2>推荐书籍</h2>
+<h3>统计自然语言处理</h3>
+<div class="book"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/0262133601/taku07-22"><img width="80%" src="./Taku Kudo_files/0262133601.01.MZZZZZZZ.jpg" border="0" alt=""></a></div><div class="book"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4130654047/taku07-22"><img width="80%" src="./Taku Kudo_files/4130654047.09.MZZZZZZZ.jpg" border="0" alt=""></a></div><div class="book"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/020139829X/taku07-22"><img width="80%" src="./Taku Kudo_files/020139829X.01.MZZZZZZZ.jpg" border="0" alt=""></a></div>
+<h3>机器学习</h3>
+<div class="book"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/0262150549/taku07-22"><img width="80%" src="./Taku Kudo_files/0262150549.01.MZZZZZZZ.jpg" border="0" alt=""></a></div><div class="book"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4000068466/taku07-22"><img width="80%" src="./Taku Kudo_files/4000068466.09.MZZZZZZZ.jpg" border="0" alt=""></a></div>
+<h3>编程语言</h3>
+<div class="book"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4894712458/taku07-22"><img width="80%" src="./Taku Kudo_files/4894712458.09.MZZZZZZZ.jpg" border="0" alt=""></a></div><div class="book"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4894714086/taku07-22"><img width="80%" src="./Taku Kudo_files/4894714086.09.MZZZZZZZ.jpg" border="0" alt=""></a></div><div class="book"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4797328541/taku07-22"><img width="80%" src="./Taku Kudo_files/4797328541.09.MZZZZZZZ.jpg" border="0" alt=""></a></div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="Vidown_extension_alhnopeoagjmjfgcbnokcnagkecgdcdh" style="display: none;"></div><div id="vidown_float_panel_div" style="display: none;"><a id="vidown_float_panel_download" title="用【维棠】下载视频">维棠下载</a><span id="vidown_float_panel_sep">|</span><input type="button" value=" " id="vidown_float_panel_close" title="关闭"></div>
+
+
+</body>
+</html>
